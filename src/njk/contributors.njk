@@ -1,0 +1,23 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Contributors{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1 class="text-center">Pirate Cove Contributors</h1>
+  <br>
+  <div class="row">
+    {% for author in cont.PCConts %}
+    <div class="col-sm-6 col-lg-4">
+      <div class="card mb-4 card border-info">
+        <img src="{{ author.auth_img }}" class="card-img-top" alt="{{ author.auth }}">
+        <div class="card-body">
+          <h5 class="card-title"> {{ author.auth }} </h5>
+          <p class="card-text"> {{ author.auth_bio }} </p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</article>
+{% endblock %}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+.jumbotron.banner {
+  background: url(../img/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+  color: white;
+  padding-top: 12rem
+}
+
+.jumbotron {
+  margin-bottom: 30px;
+  font-family: 'New Tegomin', serif;
+  font-weight: bold;
+}

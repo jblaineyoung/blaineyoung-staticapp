@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "slug": "best-pet-in-galaxy",
+      "headline": "The Best Pet in All the Galaxy",
+      "author": "John Silver",
+      "auth_img": "https://64.media.tumblr.com/323d40675b3154a2cea9c13907541526/bb97979c35e2b2d4-9b/s1280x1920/eafd28badcd0aa930cd1343e293abac179750f40.jpg",
+      "pub": "Daily Montressor",
+      "date": "Nov. 22, 2002",
+      "image": "morph.png",
+      "prev": "Morph was me trusted sidekick and pet, before I handed him over to Jimbo. He’s known for being quite mischievous and has caused trouble in the past.",
+      "post": [
+        {
+          "type": "text",
+          "value": "Morph was me trusted sidekick and pet, before I handed him over to Jimbo. He’s known for being quite mischievous and has caused trouble in the past. He displayed a liking to Jimbo and assisted him with his morphing powers."
+        },
+        {
+          "type": "text",
+          "value": "After Treasure Planet, I tried to get me Morph back, but he seemed to have grown so fond of the boy that he cried himself into a puddle! So I let Morph stay with Jimbo. Even though I miss the little guy, I know he’s in a good place with Jimbo at his mother’s inn on Montressor."
+        }
+      ]
+    },
+    {
+      "slug": "shanghaied",
+      "headline": "Shanghaied",
+      "author": "The Flying Dutchman",
+      "auth_img": "https://4.bp.blogspot.com/-aWunjJDeHiQ/WVbR2UTYzoI/AAAAAAAAwdE/kiuSXn-0jzcjZCi4TzngOCuibTT6eHBQgCLcBGAs/s1600/The-Flying-Dutchman-s-Treasure-Hunt-Sweepstakes-SpongeBob-SquarePants-Instagram-Competition-Contest-Nickelodeon-USA-Nick-SBSP-Dutchmans.png",
+      "pub": "The Krabby Kronicle",
+      "date": "March 9, 2001",
+      "image": "",
+      "prev": "That morning started like any other morning. There I was, flying across the Seven Seas, when I threw anchor in Bikini Bottom.",
+      "post": [
+        {
+          "type": "text",
+          "value": "That morning started like any other morning. There I was, flying across the Seven Seas, when I threw anchor in Bikini Bottom. I was minding me own business when a certain yellow sponge and his friends boarded me ship. I heard a sound outside me cabin, so I went to check and there they were, snooping around me ship. Spongebob said the tall ugly one, apparently called “Squidward,” came aboard to complain about where I dropped me anchor. I was having none of that, so I scorched him. And when I tried to do the same to Spongebob and the big pink one, they tried to jump overboard! It made me laugh every time they landed back on me ship. Instead of scorching them, I told them that for setting foot on me ghost ship, they shall be forced to work as me ghostly crew for all eternity."
+        },
+        {
+          "type": "text",
+          "value": "Squidward did not like the sound of that, and ran his mouth again. So I threw him in the Fly of Despair. That scared the other two so much, they agreed to help me in me ghostly duty of terrorizing the citizens of Bikini Bottom. Although they proved a sorry excuse for a crew. So I told them they would not continue to serve me as me crew, but rather be served as me ghostly snack. I threw them in the brig while I went to fetch me dining sock, a piece of clothing I cannot feast without."
+        },
+        {
+          "type": "text",
+          "value": "While in the brig, the two found their way through the ship’s perfume department and somehow stole me beloved dining sock. Not wanting it hurt, I offered them three wishes for its safe return. The pink one wasted the first setting the clock back one minute. Spongebob used the second to wish for Squidward to appear. A shame, because the irritating creature had already passed through the Fly of Despair and was back home. The three then argued on who should get the final wish, and irritated with that, I decided to use me own method: Eeny, meeny, miny, moe."
+        },
+        {
+          "type": "text",
+          "value": "I chose Spongebob and he wished me a vegetarian. So I turned into a hippie, but before they could celebrate, I turned them into fruit for me smoothie!"
+        }
+      ]
+    },
+    {
+      "slug": "kraken-photography",
+      "headline": "Kraken Photography",
+      "author": "Davy Jones",
+      "auth_img": "https://i.pinimg.com/564x/bb/87/5d/bb875d6ead603699e68aa283899a5d11.jpg",
+      "pub": "The Daily Courant",
+      "date": "March 11, 1702",
+      "image": "kraken02.jpg",
+      "prev": "Please enjoy the latest photos of me beastie the Kraken while we were out sailing the seven seas.",
+      "post": [
+        {
+          "type": "text",
+          "value": "Please enjoy the latest photos of me beastie the Kraken while we were out sailing the seven seas."
+        }
+      ]
+    }
+  ]
+}
